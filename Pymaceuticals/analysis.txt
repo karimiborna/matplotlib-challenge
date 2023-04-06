@@ -1,0 +1,4 @@
+1. Based on the first summary statistics table, the placebo was more effective at maintaining a small tumor size than Ketapril, Naftisol, and Stelasyn.
+2. Based on the box and whisker plots, Capomulin and Ramicane were much more effective than Infubinol and Ceftamin, with the former pair's upper bounds barely reaching the latter pair's lower bounds. The mouse's tumor volume which is considered a low end outlier for Infubinol would be a very normal tumor size for both Capomulin and Ramicane.
+3. Based on the line chart of mouse l509, the Capomulin treatment was most effective at 30 days in.
+4. Based on the correlation and regression chart, there is a positive direct correlation between Mouse Weight in grams and the Final tumor volume. This does not denote causation, but is direct evidence that larger mice will grow larger average tumor volumes.
